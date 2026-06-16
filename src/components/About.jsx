@@ -93,7 +93,7 @@ const About = () => {
               >
                 Download Resume ↗
               </a>
-              <a className="about-actions reveal delay-4" href="mailto:harshrs04012004@gmail.com" className="btn-outline">
+              <a className="about-actions reveal delay-4 btn-outline" href="mailto:harshrs04012004@gmail.com">
                 Email Me
               </a>           
           </div>
